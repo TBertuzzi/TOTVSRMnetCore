@@ -29,7 +29,7 @@ Então conforme a propria documentação da TOTVS devemos configurar o nosso web
 
 Importante o nome do serviço referenciado deve ser *DataServer*
 
-Em seguida devemos importar as classes refeitas desse respositorio :
+Em seguida devemos importar as classes refeitas para asp.net core desse respositorio :
 
 * [DataClient](https://github.com/TBertuzzi/TOTVSRMnetCore/blob/main/ClassesWebService/DataClient.cs)
 * [Utils](https://github.com/TBertuzzi/TOTVSRMnetCore/blob/main/ClassesWebService/Utils.cs)
